@@ -26,6 +26,7 @@ projeto_tempo/
 ├── .gitignore          # Arquivos e pastas ignorados pelo controle de versão
 └── README.md           # Documentação do projeto
 
+---
 
 🚀 Tecnologias Utilizadas
 Python 3.x
