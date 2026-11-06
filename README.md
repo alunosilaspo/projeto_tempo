@@ -28,7 +28,7 @@ projeto_tempo/
 
 ---
 
-🚀 Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas
 Python 3.x
 
 Requests (Consumo da API REST)
@@ -39,7 +39,9 @@ SQLite & Pandas (Manipulação e persistência de dados relacionais)
 
 Python-dotenv (Gerenciamento seguro de variáveis de ambiente)
 
-⚙️ Como Configurar e Executar o Projeto
+---
+
+## ⚙️ Como Configurar e Executar o Projeto
 1. Pré-requisitos
 Certifique-se de ter o Python instalado na sua máquina. Em seguida, clone o repositório e instale as dependências necessárias:
 
@@ -60,12 +62,17 @@ Para abrir a interface de consulta e visualização dos dados meteorológicos no
 
 Bash
 python -m streamlit run app/app.py
-📊 Funcionalidades
+
+---
+
+## 📊 Funcionalidades
 Coleta Automatizada: Requisição estruturada via script para consulta de dados meteorológicos por localidade.
 
 Armazenamento Híbrido: Salvamento de logs e dados brutos em formato .json e consolidação relacional em banco de dados SQLite.
 
 Dashboard Interativo: Visualização de tabelas e gráficos dinâmicos de temperatura máxima, mínima e umidade utilizando o Streamlit.
 
-✒️ Autor
+--
+
+## ✒️ Autor
 Desenvolvido por Silas Oliveira.
