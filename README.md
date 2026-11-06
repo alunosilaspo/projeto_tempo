@@ -25,7 +25,7 @@ projeto_tempo/
 ├── .env                # Variáveis de ambiente (Chave da API - Ignorado pelo Git)
 ├── .gitignore          # Arquivos e pastas ignorados pelo controle de versão
 └── README.md           # Documentação do projeto
-
+```
 ---
 
 ## 🚀 Tecnologias Utilizadas
