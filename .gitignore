@@ -1,1 +1,14 @@
-dotenv
+# Ignora o arquivo de variáveis de ambiente com sua chave secreta
+.env
+
+# Ignora toda a pasta de dados (JSONs e o banco SQLite weather.db)
+dados/
+
+# Ignora arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignora arquivos do sistema operacional
+.DS_Store
+Thumbs.db
