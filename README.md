@@ -29,7 +29,7 @@ projeto_tempo/
 ---
 
 ## 🚀 Tecnologias Utilizadas
-Python 3.x
+> Python 3.x
 
 Requests (Consumo da API REST)
 
@@ -42,7 +42,7 @@ Python-dotenv (Gerenciamento seguro de variáveis de ambiente)
 ---
 
 ## ⚙️ Como Configurar e Executar o Projeto
-1. Pré-requisitos
+> 1. Pré-requisitos
 Certifique-se de ter o Python instalado na sua máquina. Em seguida, clone o repositório e instale as dependências necessárias:
 
 Bash
@@ -66,7 +66,7 @@ python -m streamlit run app/app.py
 ---
 
 ## 📊 Funcionalidades
-Coleta Automatizada: Requisição estruturada via script para consulta de dados meteorológicos por localidade.
+> Coleta Automatizada: Requisição estruturada via script para consulta de dados meteorológicos por localidade.
 
 Armazenamento Híbrido: Salvamento de logs e dados brutos em formato .json e consolidação relacional em banco de dados SQLite.
 
@@ -75,4 +75,4 @@ Dashboard Interativo: Visualização de tabelas e gráficos dinâmicos de temper
 --
 
 ## ✒️ Autor
-Desenvolvido por Silas Oliveira.
+> Desenvolvido por Silas Oliveira.
